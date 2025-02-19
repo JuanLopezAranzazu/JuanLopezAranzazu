@@ -4,12 +4,14 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a developer passionate about technology and continuous learning. I currently focus on developing web applications with React and Node.js. I also have knowledge in relational and non-relational databases.
+I am a Systems Engineering student in my final semesters with a strong passion for software development. I have experience in backend and frontend, working with technologies such as Node.js, React.js, Vue.js, Astro, Svelte, Flask, FastAPI and Spring Boot.
+
+In the database area, I manage PostgreSQL, MySQL, SQLite and MongoDB to design efficient and scalable systems. I am passionate about writing clean code, applying good development practices and correctly structuring projects to improve software maintainability and scalability.
 
 ## Technologies and Tools
 
-- Languages: JavaScript, Python, TypeScript
-- Frameworks: React, Node.js, FastAPI
+- Languages: Java, JavaScript, Python, TypeScript
+- Frameworks: Node.js, React, Vue, Astro, Svelte, Flask, FastAPI, Spring Boot
 - Tools: Git, Docker, Firebase
 
 ## Tags
@@ -48,17 +50,3 @@ I am a developer passionate about technology and continuous learning. I currentl
 - [HackerRank](https://www.hackerrank.com/profile/juanlopezaranza1)
 - [LeetCode](https://leetcode.com/u/juanlopezaranzazu/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/user/juanlopez75ae/)
-<!--
-**JuanLopezAranzazu/JuanLopezAranzazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
