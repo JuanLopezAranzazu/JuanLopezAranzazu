@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Juan Esteban Lopez
+# Hello! 👋 I'm Juan Esteban Lopez Aranzazu
 
 Welcome to my GitHub profile!
 
@@ -35,6 +35,10 @@ In the database area, I manage PostgreSQL, MySQL, SQLite and MongoDB to design e
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## GitHub Statistics
 
@@ -44,9 +48,10 @@ In the database area, I manage PostgreSQL, MySQL, SQLite and MongoDB to design e
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/juan-esteban-lopez-aranzazu-691589187)
-- [Email](mailto:juanlopezaranzazu@gmail.com)
-- [CodeChef](https://www.codechef.com/users/juanlopezaranz)
-- [HackerRank](https://www.hackerrank.com/profile/juanlopezaranza1)
-- [LeetCode](https://leetcode.com/u/juanlopezaranzazu/)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/user/juanlopez75ae/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-lopez-aranzazu-691589187)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanlopezaranzazu@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/juanlopezaranz)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/juanlopezaranza1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/juanlopezaranzazu/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/juanlopez75ae/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/juanlopezaranzazu)
